@@ -1,0 +1,880 @@
+{
+    "originData": [
+        {
+            "id": "1",
+            "city": "东莞市",
+            "area": "桥头镇",
+            "street": "东兴二街",
+            "marketName": "大洲市场",
+            "occupiedArea": "",
+            "rentableArea": "9408.22",
+            "floorSpace": "",
+            "orderUnit": "广州市金元物业管理有限公司",
+            "orderDate": "2020年9月28日",
+            "otherArea": "",
+            "value": [114.058045,23.014788,1]
+        },
+        {
+            "id": "2",
+            "city": "东莞市",
+            "area": "樟木头镇",
+            "street": "石新路",
+            "marketName": "石马市场",
+            "occupiedArea": "",
+            "rentableArea": "20063.65",
+            "floorSpace": "",
+            "orderUnit": "广州市金元物业管理有限公司",
+            "orderDate": "2023年8月4日",
+            "otherArea": "",
+            "value": [114.094966,22.918148,1]
+        },
+        {
+            "id": "3",
+            "city": "佛山市",
+            "area": "南海区",
+            "street": "大沥镇",
+            "marketName": "横江市场",
+            "occupiedArea": "",
+            "rentableArea": "11300",
+            "floorSpace": "",
+            "orderUnit": "刘世良",
+            "orderDate": "2023年5月12日",
+            "otherArea": "",
+            "value": [114.058045,23.014788,1]
+        },
+        {
+            "id": "4",
+            "city": "佛山市",
+            "area": "南海区",
+            "street": "大沥镇",
+            "marketName": "岐发市场",
+            "occupiedArea": "",
+            "rentableArea": "207665",
+            "floorSpace": "",
+            "orderUnit": "广州市金元物业管理有限公司",
+            "orderDate": "2023年12月7日",
+            "otherArea": "",
+            "value": [114.058045,23.014788,1]
+        },
+        {
+            "id": "5",
+            "city": "佛山市",
+            "area": "南海区",
+            "street": "桂城街道",
+            "marketName": "超益市场",
+            "occupiedArea": "",
+            "rentableArea": "6246.61",
+            "floorSpace": "",
+            "orderUnit": "刘世良",
+            "orderDate": "2020年8月20日",
+            "otherArea": "",
+            "value": [114.058045,23.014788,1]
+        },
+        {
+            "id": "6",
+            "city": "佛山市",
+            "area": "顺德区",
+            "street": "大良街道",
+            "marketName": "南江市场",
+            "occupiedArea": "",
+            "rentableArea": "3729.13",
+            "floorSpace": "",
+            "orderUnit": "广州市金元物业管理有限公司",
+            "orderDate": "2023年5月9日",
+            "otherArea": "",
+            "value": [114.058045,23.014788,1]
+        },
+        {
+            "id": "7",
+            "city": "佛山市",
+            "area": "顺德区",
+            "street": "勒流街道",
+            "marketName": "冲鹤市场",
+            "occupiedArea": "",
+            "rentableArea": "4353",
+            "floorSpace": "",
+            "orderUnit": "广州市金元物业管理有限公司",
+            "orderDate": "2023年1月5日",
+            "otherArea": "",
+            "value": [114.058045,23.014788,1]
+        },
+        {
+            "id": "8",
+            "city": "佛山市",
+            "area": "顺德区",
+            "street": "容桂街道",
+            "marketName": "华口市场",
+            "occupiedArea": "",
+            "rentableArea": "4292.52",
+            "floorSpace": "",
+            "orderUnit": "广州市金元物业管理有限公司",
+            "orderDate": "2023年7月19日",
+            "otherArea": "",
+            "value": [114.058045,23.014788,1]
+        },
+        {
+            "id": "9",
+            "city": "广州市",
+            "area": "白云区",
+            "street": "",
+            "marketName": "罗岗市场",
+            "occupiedArea": "",
+            "rentableArea": "2000",
+            "floorSpace": "",
+            "orderUnit": "刘世良",
+            "orderDate": "2022年1月3日",
+            "otherArea": "",
+            "value": [113.278424,23.255,1]
+        },
+        {
+            "id": "10",
+            "city": "广州市",
+            "area": "白云区",
+            "street": "",
+            "marketName": "棠景市场",
+            "occupiedArea": "",
+            "rentableArea": "2900",
+            "floorSpace": "",
+            "orderUnit": "刘绍星",
+            "orderDate": "2021年2月26日",
+            "otherArea": "",
+            "value": [113.264236,23.179958,1]
+        },
+        {
+            "id": "11",
+            "city": "广州市",
+            "area": "番禺区",
+            "street": "",
+            "marketName": "城南市场",
+            "occupiedArea": "",
+            "rentableArea": "2579.33",
+            "floorSpace": "",
+            "orderUnit": "广州市正田市场经营管理有限公司,广州福愉市场经营管理有限公司",
+            "orderDate": "2021年2月26日",
+            "otherArea": "",
+            "value": [113.371962,22.914848,1]
+        },
+        {
+            "id": "12",
+            "city": "广州市",
+            "area": "花都区",
+            "street": "",
+            "marketName": "芙蓉市场",
+            "occupiedArea": "",
+            "rentableArea": "5824",
+            "floorSpace": "",
+            "orderUnit": "广州市臻阳市场经营管理有限公司",
+            "orderDate": "2021年12月14日",
+            "otherArea": "",
+            "value": [113.22945,23.474217,1]
+        },
+        {
+            "id": "13",
+            "city": "广州市",
+            "area": "花都区",
+            "street": "花东镇",
+            "marketName": "象山市场",
+            "occupiedArea": "",
+            "rentableArea": "4500",
+            "floorSpace": "",
+            "orderUnit": "广州市金元物业管理有限公司",
+            "orderDate": "2023年1月29日",
+            "otherArea": "",
+            "value": [113.339361,23.445443,1]
+        },
+        {
+            "id": "14",
+            "city": "广州市",
+            "area": "黄埔区",
+            "street": "",
+            "marketName": "顶岗市场",
+            "occupiedArea": "",
+            "rentableArea": "",
+            "floorSpace": "",
+            "orderUnit": "刘世良、雷霞",
+            "orderDate": "2020年8月1日",
+            "otherArea": "",
+            "value": [113.4488,23.112248,1]
+        },
+        {
+            "id": "15",
+            "city": "广州市",
+            "area": "黄埔区",
+            "street": "",
+            "marketName": "港湾北市场",
+            "occupiedArea": "",
+            "rentableArea": "",
+            "floorSpace": "",
+            "orderUnit": "广州市金元物业管理有限公司",
+            "orderDate": "2020年11月17日",
+            "otherArea": "",
+            "value": [113.452104,23.111389,1]
+        },
+        {
+            "id": "16",
+            "city": "广州市",
+            "area": "黄埔区",
+            "street": "",
+            "marketName": "联和市场",
+            "occupiedArea": "",
+            "rentableArea": "",
+            "floorSpace": "",
+            "orderUnit": "广州市金元物业管理有限公司",
+            "orderDate": "2009年10月13日",
+            "otherArea": "",
+            "value": [113.431769,23.205125,1]
+        },
+        {
+            "id": "17",
+            "city": "广州市",
+            "area": "黄埔区",
+            "street": "",
+            "marketName": "长安市场",
+            "occupiedArea": "",
+            "rentableArea": "",
+            "floorSpace": "",
+            "orderUnit": "广州市金元物业管理有限公司",
+            "orderDate": "2020年11月3日",
+            "otherArea": "",
+            "value": [113.449179,23.190638,1]
+        },
+        {
+            "id": "18",
+            "city": "广州市",
+            "area": "荔湾区",
+            "street": "",
+            "marketName": "克山市场",
+            "occupiedArea": "",
+            "rentableArea": "",
+            "floorSpace": "",
+            "orderUnit": "刘世良",
+            "orderDate": "2021年5月1日",
+            "otherArea": "",
+            "value": [113.254209,23.14967,1]
+        },
+        {
+            "id": "19",
+            "city": "广州市",
+            "area": "南沙区",
+            "street": "",
+            "marketName": "板头市场",
+            "occupiedArea": "",
+            "rentableArea": "",
+            "floorSpace": "",
+            "orderUnit": "刘世良",
+            "orderDate": "2022年1月27日",
+            "otherArea": "",
+            "value": [114.058045,23.014788,1]
+        },
+        {
+            "id": "20",
+            "city": "广州市",
+            "area": "南沙区",
+            "street": "",
+            "marketName": "金洲市场",
+            "occupiedArea": "",
+            "rentableArea": "",
+            "floorSpace": "",
+            "orderUnit": "广州福愉市场经营管理有限公司",
+            "orderDate": "2021年4月14日",
+            "otherArea": "",
+            "value": [113.55444,22.796482,1]
+        },
+        {
+            "id": "21",
+            "city": "广州市",
+            "area": "越秀区",
+            "street": "",
+            "marketName": "建设新村市场",
+            "occupiedArea": "",
+            "rentableArea": "2554",
+            "floorSpace": "",
+            "orderUnit": "广州市金元物业管理有限公司",
+            "orderDate": "2022年12月15日",
+            "otherArea": "",
+            "value": [113.287804,23.140447,1]
+        },
+        {
+            "id": "22",
+            "city": "中山市",
+            "area": "古镇镇",
+            "street": "",
+            "marketName": "古四市场",
+            "occupiedArea": "",
+            "rentableArea": "10000",
+            "floorSpace": "",
+            "orderUnit": "广州市金元物业管理有限公司",
+            "orderDate": "2023年11月1日",
+            "otherArea": "",
+            "value": [113.183012,22.623443,1]
+        },
+        {
+            "id": "23",
+            "city": "中山市",
+            "area": "小榄镇",
+            "street": "",
+            "marketName": "广成市场及夜市",
+            "occupiedArea": "",
+            "rentableArea": "21164.11",
+            "floorSpace": "",
+            "orderUnit": "广州市金元物业管理有限公司",
+            "orderDate": "2020年11月2日",
+            "otherArea": "",
+            "value": [113.267024,22.660322,1]
+        },
+        {
+            "id": "24",
+            "city": "中山市",
+            "area": "小榄镇",
+            "street": "",
+            "marketName": "绩西市场",
+            "occupiedArea": "",
+            "rentableArea": "5383.2",
+            "floorSpace": "",
+            "orderUnit": "广州市金元物业管理有限公司",
+            "orderDate": "2020年11月2日",
+            "otherArea": "",
+            "value": [113.256033,22.64999,1]
+        },
+        {
+            "id": "25",
+            "city": "中山市",
+            "area": "小榄镇",
+            "street": "",
+            "marketName": "吉安市场",
+            "occupiedArea": "",
+            "rentableArea": "30861.19",
+            "floorSpace": "",
+            "orderUnit": "广州市金元物业管理有限公司",
+            "orderDate": "2021年1月30日",
+            "otherArea": "",
+            "value": [113.258737,22.595849,1]
+        },
+        {
+            "id": "26",
+            "city": "清远市",
+            "area": "清城区",
+            "street": "",
+            "marketName": "花厅市场",
+            "occupiedArea": "",
+            "rentableArea": "",
+            "floorSpace": "",
+            "orderUnit": "刘世良",
+            "orderDate": "2020年1月9日",
+            "otherArea": "",
+            "value": [113.042051,23.718595,1]
+        },
+        {
+            "id": "27",
+            "city": "清远市",
+            "area": "清城区",
+            "street": "",
+            "marketName": "后岗批发市场",
+            "occupiedArea": "",
+            "rentableArea": "",
+            "floorSpace": "",
+            "orderUnit": "刘绍星",
+            "orderDate": "2024年2月9日",
+            "otherArea": "",
+            "value": [113.038412,23.730974,1]
+        },
+        {
+            "id": "28",
+            "city": "清远市",
+            "area": "清城区",
+            "street": "",
+            "marketName": "后岗墟市场",
+            "occupiedArea": "",
+            "rentableArea": "",
+            "floorSpace": "",
+            "orderUnit": "刘绍星",
+            "orderDate": "2024年2月19日",
+            "otherArea": "",
+            "value": [113.03707,23.729836,1]
+        },
+        {
+            "id": "28",
+            "city": "云浮市",
+            "area": "云城区",
+            "street": "",
+            "marketName": "金山市场",
+            "occupiedArea": "4312.75",
+            "rentableArea": "",
+            "floorSpace": "6860.42",
+            "orderUnit": "佛山市金鹤商业管理有限公司",
+            "orderDate": "2024年5月20日",
+            "otherArea": "",
+            "value": [112.03525,22.935557,1]
+        }
+    ],
+    "440000": [
+        {
+            "name": "东莞市",
+            "value": 1000,
+            "children": [
+                {
+                    "area": "桥头镇",
+                    "street": "东兴二街",
+                    "marketName": "大洲市场",
+                    "occupiedArea": "",
+                    "rentableArea": "9408.22",
+                    "floorSpace": "",
+                    "orderUnit": "广州市金元物业管理有限公司",
+                    "orderDate": "2020年9月28日"
+                },
+                {
+                    "area": "樟木头镇",
+                    "street": "石新路",
+                    "marketName": "石马市场",
+                    "occupiedArea": "",
+                    "rentableArea": "20063.65",
+                    "floorSpace": "",
+                    "orderUnit": "广州市金元物业管理有限公司",
+                    "orderDate": "2023年8月4日"
+                }
+            ]
+        },
+        {
+            "name": "佛山市",
+            "value": 1000,
+            "children": [
+                {
+                    "area": "南海区",
+                    "street": "大沥镇",
+                    "marketName": "横江市场",
+                    "occupiedArea": "",
+                    "rentableArea": "11300",
+                    "floorSpace": "",
+                    "orderUnit": "刘世良",
+                    "orderDate": "2023年5月12日"
+                },
+                {
+                    "area": "南海区",
+                    "street": "大沥镇",
+                    "marketName": "岐发市场",
+                    "occupiedArea": "",
+                    "rentableArea": "207665",
+                    "floorSpace": "",
+                    "orderUnit": "广州市金元物业管理有限公司",
+                    "orderDate": "2023年12月7日"
+                },
+                {
+                    "area": "南海区",
+                    "street": "桂城街道",
+                    "marketName": "超益市场",
+                    "occupiedArea": "",
+                    "rentableArea": "6246.61",
+                    "floorSpace": "",
+                    "orderUnit": "刘世良",
+                    "orderDate": "2020年8月20日"
+                },
+                {
+                    "area": "顺德区",
+                    "street": "大良街道",
+                    "marketName": "南江市场",
+                    "occupiedArea": "",
+                    "rentableArea": "3729.13",
+                    "floorSpace": "",
+                    "orderUnit": "广州市金元物业管理有限公司",
+                    "orderDate": "2023年5月9日"
+                },
+                {
+                    "area": "顺德区",
+                    "street": "勒流街道",
+                    "marketName": "冲鹤市场",
+                    "occupiedArea": "",
+                    "rentableArea": "4353",
+                    "floorSpace": "",
+                    "orderUnit": "广州市金元物业管理有限公司",
+                    "orderDate": "2023年1月5日"
+                },
+                {
+                    "area": "顺德区",
+                    "street": "容桂街道",
+                    "marketName": "华口市场",
+                    "occupiedArea": "",
+                    "rentableArea": "4292.52",
+                    "floorSpace": "",
+                    "orderUnit": "广州市金元物业管理有限公司",
+                    "orderDate": "2023年7月19日"
+                }
+            ]
+        },
+        {
+            "name": "广州市",
+            "value": 1000,
+            "children": [
+                {
+                    "area": "白云区",
+                    "street": "",
+                    "marketName": "罗岗市场",
+                    "occupiedArea": "",
+                    "rentableArea": "2000",
+                    "floorSpace": "",
+                    "orderUnit": "刘世良",
+                    "orderDate": "2022年1月3日"
+                },
+                {
+                    "area": "白云区",
+                    "street": "",
+                    "marketName": "棠景市场",
+                    "occupiedArea": "",
+                    "rentableArea": "2900",
+                    "floorSpace": "",
+                    "orderUnit": "刘绍星",
+                    "orderDate": "2021年2月26日"
+                },
+                {
+                    "area": "番禺区",
+                    "street": "",
+                    "marketName": "城南市场",
+                    "occupiedArea": "",
+                    "rentableArea": "2579.33",
+                    "floorSpace": "",
+                    "orderUnit": "广州市正田市场经营管理有限公司,广州福愉市场经营管理有限公司",
+                    "orderDate": "2021年2月26日"
+                },
+                {
+                    "area": "花都区",
+                    "street": "",
+                    "marketName": "芙蓉市场",
+                    "occupiedArea": "",
+                    "rentableArea": "5824",
+                    "floorSpace": "",
+                    "orderUnit": "广州市臻阳市场经营管理有限公司",
+                    "orderDate": "2021年12月14日"
+                },
+                {
+                    "area": "花都区",
+                    "street": "花东镇",
+                    "marketName": "象山市场",
+                    "occupiedArea": "",
+                    "rentableArea": "4500",
+                    "floorSpace": "",
+                    "orderUnit": "广州市金元物业管理有限公司",
+                    "orderDate": "2023年1月29日"
+                },
+                {
+                    "area": "黄埔区",
+                    "street": "",
+                    "marketName": "顶岗市场",
+                    "occupiedArea": "",
+                    "rentableArea": "",
+                    "floorSpace": "",
+                    "orderUnit": "刘世良、雷霞",
+                    "orderDate": "2020年8月1日"
+                },
+                {
+                    "area": "黄埔区",
+                    "street": "",
+                    "marketName": "港湾北市场",
+                    "occupiedArea": "",
+                    "rentableArea": "",
+                    "floorSpace": "",
+                    "orderUnit": "广州市金元物业管理有限公司",
+                    "orderDate": "2020年11月17日"
+                },
+                {
+                    "area": "黄埔区",
+                    "street": "",
+                    "marketName": "联和市场",
+                    "occupiedArea": "",
+                    "rentableArea": "",
+                    "floorSpace": "",
+                    "orderUnit": "广州市金元物业管理有限公司",
+                    "orderDate": "2009年10月13日"
+                },
+                {
+                    "area": "黄埔区",
+                    "street": "",
+                    "marketName": "长安市场",
+                    "occupiedArea": "",
+                    "rentableArea": "",
+                    "floorSpace": "",
+                    "orderUnit": "广州市金元物业管理有限公司",
+                    "orderDate": "2020年11月3日"
+                },
+                {
+                    "area": "荔湾区",
+                    "street": "",
+                    "marketName": "克山市场",
+                    "occupiedArea": "",
+                    "rentableArea": "",
+                    "floorSpace": "",
+                    "orderUnit": "刘世良",
+                    "orderDate": "2021年5月1日"
+                },
+                {
+                    "area": "南沙区",
+                    "street": "",
+                    "marketName": "板头市场",
+                    "occupiedArea": "",
+                    "rentableArea": "",
+                    "floorSpace": "",
+                    "orderUnit": "刘世良",
+                    "orderDate": "2022年1月27日"
+                },
+                {
+                    "area": "南沙区",
+                    "street": "",
+                    "marketName": "金洲市场",
+                    "occupiedArea": "",
+                    "rentableArea": "",
+                    "floorSpace": "",
+                    "orderUnit": "广州福愉市场经营管理有限公司",
+                    "orderDate": "2021年4月14日"
+                },
+                {
+                    "area": "越秀区",
+                    "street": "",
+                    "marketName": "建设新村市场",
+                    "occupiedArea": "",
+                    "rentableArea": "2554",
+                    "floorSpace": "",
+                    "orderUnit": "广州市金元物业管理有限公司",
+                    "orderDate": "2022年12月15日"
+                }
+            ]
+        },
+        {
+            "name": "中山市",
+            "value": 1000,
+            "children": [
+                {
+                    "area": "古镇镇",
+                    "street": "",
+                    "marketName": "古四市场",
+                    "occupiedArea": "",
+                    "rentableArea": "10000",
+                    "floorSpace": "",
+                    "orderUnit": "广州市金元物业管理有限公司",
+                    "orderDate": "2023年11月1日"
+                },
+                {
+                    "area": "小榄镇",
+                    "street": "",
+                    "marketName": "广成市场及夜市",
+                    "occupiedArea": "",
+                    "rentableArea": "21164.11",
+                    "floorSpace": "",
+                    "orderUnit": "广州市金元物业管理有限公司",
+                    "orderDate": "2020年11月2日"
+                },
+                {
+                    "area": "小榄镇",
+                    "street": "",
+                    "marketName": "绩西市场",
+                    "occupiedArea": "",
+                    "rentableArea": "5383.2",
+                    "floorSpace": "",
+                    "orderUnit": "广州市金元物业管理有限公司",
+                    "orderDate": "2020年11月2日"
+                },
+                {
+                    "area": "小榄镇",
+                    "street": "",
+                    "marketName": "吉安市场",
+                    "occupiedArea": "",
+                    "rentableArea": "30861.19",
+                    "floorSpace": "",
+                    "orderUnit": "广州市金元物业管理有限公司",
+                    "orderDate": "2021年1月30日"
+                }
+            ]
+        },
+        {
+            "name": "清远市",
+            "value": 1000,
+            "children": [
+                {
+                    "area": "清城区",
+                    "street": "",
+                    "marketName": "花厅市场",
+                    "occupiedArea": "",
+                    "rentableArea": "",
+                    "floorSpace": "",
+                    "orderUnit": "刘世良",
+                    "orderDate": "2020年1月9日"
+                },
+                {
+                    "area": "清城区",
+                    "street": "",
+                    "marketName": "后岗批发市场",
+                    "occupiedArea": "",
+                    "rentableArea": "",
+                    "floorSpace": "",
+                    "orderUnit": "刘绍星",
+                    "orderDate": "2024年2月9日"
+                },
+                {
+                    "area": "清城区",
+                    "street": "",
+                    "marketName": "后岗墟市场",
+                    "occupiedArea": "",
+                    "rentableArea": "",
+                    "floorSpace": "",
+                    "orderUnit": "刘绍星",
+                    "orderDate": "2024年2月19日"
+                }
+            ]
+        },
+        {
+            "name": "云浮市",
+            "value": 1000,
+            "children": [
+                {
+                    "area": "云城区",
+                    "street": "",
+                    "marketName": "金山市场",
+                    "occupiedArea": "4312.75",
+                    "rentableArea": "",
+                    "floorSpace": "6860.42",
+                    "orderUnit": "佛山市金鹤商业管理有限公司",
+                    "orderDate": "2024年5月20日"
+                }
+            ]
+        }
+    ],
+    "china": [
+        {
+            "name": "新疆维吾尔自治区",
+            "value": 5
+        },
+        {
+            "name": "湖北省",
+            "value": 350
+        },
+        {
+            "name": "辽宁省",
+            "value": 150
+        },
+        {
+            "name": "广东省",
+            "value": 550
+        },
+        {
+            "name": "内蒙古自治区",
+            "value": 5
+        },
+        {
+            "name": "黑龙江省",
+            "value": 150
+        },
+        {
+            "name": "河南省",
+            "value": 350
+        },
+        {
+            "name": "山东省",
+            "value": 450
+        },
+        {
+            "name": "陕西省",
+            "value": 5
+        },
+        {
+            "name": "贵州省",
+            "value": 15
+        },
+        {
+            "name": "上海市",
+            "value": 250
+        },
+        {
+            "name": "重庆市",
+            "value": 50
+        },
+        {
+            "name": "西藏自治区",
+            "value": 5
+        },
+        {
+            "name": "安徽省",
+            "value": 250
+        },
+        {
+            "name": "福建省",
+            "value": 550
+        },
+        {
+            "name": "湖南省",
+            "value": 350
+        },
+        {
+            "name": "海南省",
+            "value": 550
+        },
+        {
+            "name": "江苏省",
+            "value": 250
+        },
+        {
+            "name": "青海省",
+            "value": 5
+        },
+        {
+            "name": "广西壮族自治区",
+            "value": 550
+        },
+        {
+            "name": "宁夏回族自治区",
+            "value": 5
+        },
+        {
+            "name": "浙江省",
+            "value": 250
+        },
+        {
+            "name": "河北省",
+            "value": 450
+        },
+        {
+            "name": "香港特别行政区",
+            "value": 550
+        },
+        {
+            "name": "台湾省",
+            "value": 550
+        },
+        {
+            "name": "澳门特别行政区",
+            "value": 550
+        },
+        {
+            "name": "甘肃省",
+            "value": 5
+        },
+        {
+            "name": "四川省",
+            "value": 50
+        },
+        {
+            "name": "天津市",
+            "value": 450
+        },
+        {
+            "name": "江西省",
+            "value": 250
+        },
+        {
+            "name": "云南省",
+            "value": 50
+        },
+        {
+            "name": "山西省",
+            "value": 5
+        },
+        {
+            "name": "北京市",
+            "value": 450
+        },
+        {
+            "name": "吉林省",
+            "value": 150
+        },
+        {
+            "name": "南海诸岛",
+            "value": 550
+        }
+    ]
+}

@@ -3,7 +3,7 @@ import type {RouteRecordRaw} from "vue-router"
 const routes: Array<RouteRecordRaw> = [
   {
     path: '/',
-    redirect: '/index',
+    redirect: '/chart1',
   },
   {
     path: '/home',
@@ -14,9 +14,14 @@ const routes: Array<RouteRecordRaw> = [
         path: '/index',
         name: 'index',
         component: () => import('@/views/index/index.vue'),
-      }
+      },
     ]
   },
+  {
+    path: '/chart1',
+    name: 'chart1',
+    component: () => import('@/views/chart1/index.vue'),
+  }
 ]
 const router = createRouter({
   history: createWebHashHistory(import.meta.env.BASE_URL),
